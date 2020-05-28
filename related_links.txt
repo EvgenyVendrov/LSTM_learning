@@ -1,0 +1,4 @@
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
+
+https://towardsdatascience.com/teaching-an-rnn-to-write-code-84a8e3435f65
+

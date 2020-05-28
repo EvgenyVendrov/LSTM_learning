@@ -1,0 +1,6 @@
+the idea is based on:  https://karpathy.github.io/2015/05/21/rnn-effectiveness/ 
+ths idea is:  to read linux source code - 
+found in: https://github.com/torvalds/linux
+and try to generate some source c code with RNN LSTM
+
+the next step would be to try and classify which texutal data is source code of some kind and which is just text
